@@ -1,4 +1,0 @@
-Copyright (c) 2026 Tidal Client (iitzrob). All rights reserved.
-This website and its source code are proprietary. You may view them in a browser, but you may not copy, modify, redistribute, publish, or create derivative works from any part of them without written permission from the owner.
-You may not feed this code or its content into any AI or machine-learning tool to rewrite, modify, clone, or train on it. Unauthorized use may be reported and removed under copyright law (DMCA).
-Tidal Client is not affiliated with Mojang or Microsoft.
